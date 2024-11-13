@@ -2,7 +2,7 @@
 
 from turtle import *
 i=1
-while true:
+while True:
     forward(i)
     right(90)
     i+=1
